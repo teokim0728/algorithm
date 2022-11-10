@@ -11,4 +11,5 @@ int main()
             printf("%2c", a[i][j]);
         printf("\n");
     }
+    return 0;
 }
